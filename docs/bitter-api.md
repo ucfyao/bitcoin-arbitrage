@@ -1,0 +1,2 @@
+https://bittrex.com/Api/v2.0/pub/market/GetTicks?marketName=BTC-ETH&tickInterval=oneMin&_=1497334228014
+https://bittrex.com/Api/v2.0/pub/market/GetTicks?marketName=BTC-ETH&tickInterval=hour&_=1497334228016
